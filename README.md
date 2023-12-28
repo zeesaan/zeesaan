@@ -37,6 +37,6 @@ I'm passionate about combining software development and IT operations to enhance
 
 ### 🌟 Featured Repositories
 - MySQL Deploy Statefulset: https://github.com/zeesaan/mysql-statefulset-kubernetes
-- Wordpress Website deploy kubernetes : https://github.com/zeesaan/wordpress-deploy-kubernetes
+- WordPress Website Deploy Kubernetes: https://github.com/zeesaan/wordpress-deploy-kubernetes
 
 Feel free to reach out for collaboration opportunities or discussions on DevOps, automation, or cloud technologies!
