@@ -1,5 +1,5 @@
 <!-- Your Cover Image -->
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F06c34c30ea9d6c49fde7b76c2a8d386337ceed02252c5a5ab22a7c5fce5e0574%2F68747470733a2f2f74682e62696e672e636f6d2f74682f69642f522e35346533376438303734656263646531643936633737643762326137663331303f72696b3d6658334a53437365496259634b41267069643d496d6752617726723d30&tbnid=Aob19zh3U0GdRM&vet=10COMBEDMorwFqFwoTCIC06fHOsYMDFQAAAAAdAAAAABAC..i&imgrefurl=https%3A%2F%2Fgithub.com%2Fmuzafferjoya&docid=Kudj7vuyBES3_M&w=680&h=428&itg=1&q=animated%20gif%20images%20for%20devops%20engineer&ved=0COMBEDMorwFqFwoTCIC06fHOsYMDFQAAAAAdAAAAABAC" alt="Cover Image" width="100%" height="300px">
+<img src="https://camo.githubusercontent.com/b995d7197188fbc1d9e072f2808bf1eae783444dd45cf152097fc410146426bd/687474703a2f2f73747564696f706978656c2e696e2f77702d636f6e74656e742f75706c6f6164732f323031372f31312f31386134393439666339633830363731373264336239366533303265373039372e676966" alt="Cover Image" width="100%" height="300px">
 
 # Hi there, I'm Zeesaan 👋
 ## DevOps Engineer | Enabling Agile Development | Infrastructure Automation & Streamlining Delivery | Top Rated Freelancer On Upwork
