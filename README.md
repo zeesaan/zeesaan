@@ -37,7 +37,7 @@ I'm passionate about combining software development and IT operations to enhance
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeesaan&show_icons=true&theme=dark)
 
 ### 🌟 Featured Repositories
-- [Project 1 Name](Link to Repo)
-- [Project 2 Name](Link to Repo)
+- MySQL Deploy Statefulset: https://github.com/zeesaan/mysql-statefulset-kubernetes
+- Wordpress Website deploy kubernetes : https://github.com/zeesaan/wordpress-deploy-kubernetes
 
 Feel free to reach out for collaboration opportunities or discussions on DevOps, automation, or cloud technologies!
