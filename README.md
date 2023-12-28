@@ -2,7 +2,7 @@
 ## DevOps Engineer | Enabling Agile Development | Infrastructure Automation & Streamlining Delivery | Top Rated Freelancer On Upwork
 
 ### About Me
-I'm passionate about leveraging automation and cutting-edge technologies to streamline development, deployment, and operations. With a strong background in DevOps methodologies and cloud technologies, I strive to optimize processes and enhance scalability.
+I'm passionate about combining software development and IT operations to enhance the software development lifecycle. With a focus on automation, scalability, and reliability, I aim to optimize workflows and drive efficiency using DevOps best practices.
 
 ### 🔭 I’m Currently Working On
 - Implementing CI/CD pipelines for [Dnet/elearning]
@@ -10,10 +10,10 @@ I'm passionate about leveraging automation and cutting-edge technologies to stre
 - Improving monitoring and logging systems with ELK Stack
 
 ### 🌱 I’m Currently Learning
-- Kubernetes orchestration and containerization
-- Advanced scripting with Python for automation
-- Enhancing security practices in DevOps workflows
-
+- Deepening knowledge of Kubernetes for scalable deployments
+- Exploring serverless architectures on cloud platforms
+- Improving security practices within CI/CD pipelines
+  
 ### 💡 Skills
 - **DevOps:** CI/CD, Jenkins, GitLab CI/CD, Travis CI
 - **Cloud:** AWS, Azure, GCP
@@ -28,11 +28,10 @@ I'm passionate about leveraging automation and cutting-edge technologies to stre
 - Linux, Unix, Windows
 
 ### 📫 Connect with Me
-- [LinkedIn](Your LinkedIn Profile URL)
-- [Twitter](Your Twitter Profile URL)
+- LinkedIn https://www.linkedin.com/in/jafar-iqbal/
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeesaan&show_icons=true&theme=dark)
 
 ### 🌟 Featured Repositories
 - [Project 1 Name](Link to Repo)
