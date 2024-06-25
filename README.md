@@ -4,7 +4,7 @@
 I'm passionate about combining software development and IT operations to enhance the software development lifecycle. With a focus on automation, scalability, and reliability, I aim to optimize workflows and drive efficiency using DevOps best practices.
 
 ### 🔭 I’m Currently Working On
-- Implementing CI/CD pipelines for [Dnet/elearning]
+- Implementing CI/CD pipelines for [Propsoft.ai]
 - Automating infrastructure provisioning using Terraform
 - Improving monitoring and logging systems with ELK Stack
 
